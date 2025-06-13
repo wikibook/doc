@@ -1,4 +1,4 @@
-# 《npm Deep Dive》 본문 내 URL
+# [《npm Deep Dive》](https://wikibook.co.kr/npm-deep-dive/) 본문 내 URL
 
 | 페이지 | URL |
 | -- | -- |
