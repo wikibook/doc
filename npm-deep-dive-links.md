@@ -229,8 +229,7 @@
 | 269 | https://github.com/tophat/yarn-plugin-semver-up |
 | 271 | https://github.com/yarnpkg/berry/issues/821 |
 | 272 | https://github.com/tophat/yarn-plugin-licenses |
-| 273 | https://p.datadoghq.eu/sb/d2wdprp9uki7gfks-c562c42f4dfd0ade4885690fa719c818?fromUser=false&refresh_mode=sliding&tpl_var_npm%5B0%5D=%2A&tpl_var_pnpm%5B0%5D=%2A&tpl_var_yarn-classic%5B0%5D=%2A&tpl_var_yarn-modern%5B0%5D=%2A&tpl_var_yarnnm%5B0%5D=%2A&tpl_var_yarn-pnpm%5B0%5D=no&from_ts=1723700705285&to_ts=1731476705285&live=true
- |
+| 273 | https://p.datadoghq.eu/sb/d2wdprp9uki7gfks-c562c42f4dfd0ade4885690fa719c818?fromUser=false&refresh_mode=sliding&tpl_var_npm%5B0%5D=%2A&tpl_var_pnpm%5B0%5D=%2A&tpl_var_yarn-classic%5B0%5D=%2A&tpl_var_yarn-modern%5B0%5D=%2A&tpl_var_yarnnm%5B0%5D=%2A&tpl_var_yarn-pnpm%5B0%5D=no&from_ts=1723700705285&to_ts=1731476705285&live=true |
 | 274 | https://pnpm.io/motivation |
 | 275 | https://pnpm.io/benchmarks |
 | 275 | https://github.com/pnpm/pnpm.io/blob/main/benchmarks/fixtures/alotta-files/package.json |
